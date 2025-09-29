@@ -1,3 +1,4 @@
 [tools]
 go = "latest"
 "go:github.com/bootdotdev/bootdev" = "latest"
+"go:honnef.co/go/tools/cmd/staticcheck" = "latest"
