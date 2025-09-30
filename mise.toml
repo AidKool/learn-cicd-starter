@@ -1,3 +1,4 @@
 [tools]
 go = "latest"
 "go:github.com/bootdotdev/bootdev" = "latest"
+"go:github.com/securego/gosec/v2/cmd/gosec" = "latest"
